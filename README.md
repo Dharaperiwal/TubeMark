@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # TubeMark
 A Chrome extension that allows you to bookmark the timestamps of YouTube videos.
 
@@ -21,3 +22,7 @@ Just click the play button on the timestamp to view the video from any of the sa
 # YouMark
 A chrome extension to save YouTube video timestamps as bookmarks.
 >>>>>>> 2ee49bd (Initial commit)
+=======
+# TubeMark
+A Chrome extension that allows you to bookmark the timestamps of YouTube videos.
+>>>>>>> b1712eefe1ce4be8794c5cc68fbcedc89365bd92
